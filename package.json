@@ -1,0 +1,23 @@
+{
+  "name": "7.5.NPM-testing",
+  "version": "1.0.0",
+  "description": "https://piet-tia.github.io/learning-git-2/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piet-Tia/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piet-Tia/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/Piet-Tia/learning-git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5"
+  }
+}
