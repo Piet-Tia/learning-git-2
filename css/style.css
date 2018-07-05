@@ -1,16 +1,18 @@
 body {
   background-color: #ccc;
-  color: #001; }
+  color: #001;
+}
 
 .container {
   width: 80%;
   min-width: 600px;
-  text-align: center; }
+  text-align: center;
+}
 
 p {
   padding: 10px;
   width: 40%;
   margin: 10px auto;
-  background-color: #bbb; }
-
+  background-color: #bbb;
+}
 /*# sourceMappingURL=style.css.map */
